@@ -5,7 +5,7 @@ Blexz team is working hard to build easy tools to help 3rd party blexz store tem
 ## Installing
 
 This snippet extension is available in Microsoft visual studio code marketplace. You can search from your vs code IDE or visit link
-* [BlexzSnippets](https://marketplace.visualstudio.com/items?itemName=BLEXZ.BlexzSnippets/)
+* [BlexzSnippets](https://marketplace.visualstudio.com/items?itemName=BLEXZ.BlexzSnippets)
 
 
 ## License
