@@ -6,7 +6,7 @@
     "publisher": "BLEXZ",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Eventyret/vscode-bcdn"
+        "url": "https://github.com/BLEXZ/VsCodeSnippets"
     },
     "icon": "icon.png",
     "engines": {
