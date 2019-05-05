@@ -1,0 +1,26 @@
+{
+    "name": "BlexzSnippets",
+    "displayName": "BlexzSnippets",
+    "description": "Blexz theme development helper snippet tool",
+    "version": "1.0.0",
+    "publisher": "BLEXZ",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Eventyret/vscode-bcdn"
+    },
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

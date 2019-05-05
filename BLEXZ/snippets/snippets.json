@@ -1,0 +1,9 @@
+{
+    "Blexz template title":{
+        "prefix": "!xzt",
+        "body":[
+            "blexz.title"
+        ],
+        "description": "Generates blexz dynamic store title"
+    }
+}
