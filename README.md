@@ -15,4 +15,4 @@ This snippet extension is available in Microsoft visual studio code marketplace.
 
 ## License
 
-This particular project is licensed under the MIT Licens
+This particular project is licensed under the MIT license
